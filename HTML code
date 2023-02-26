@@ -1,0 +1,19 @@
+<html lang="en">
+  <head>
+    <title>Happy New Year</title>
+    <link rel="stylesheet" href="/style.css" />
+    <script src="/script.js" defer></script>
+  </head>
+
+  <body>
+    <div class="main-content">
+      <audio controls>
+        <source
+          src="https://cdn.glitch.global/e50b97d4-d359-4455-9ced-e09d1e27266b/Track.wav?v=1671117255116"
+          type="audio/mpeg"
+          autostart="true"
+        />
+      </audio>
+    </div>
+  </body>
+</html>
