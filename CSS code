@@ -1,0 +1,13 @@
+.main-content {
+  width: 1400px;
+  margin: 0 auto;
+  padding-top: 0px;
+  text-align: center;
+}
+
+body {
+  background-image: url("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2Fb35d77334754195e824c575771a9397deafaf89011cc1a-VGcCnH_fw658&refer=http%3A%2F%2Fhbimg.b0.upaiyun.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1673451297&t=a6ea15e984397db62c6ac7a49ef02224");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
